@@ -15,8 +15,8 @@ int zb = int.Parse(Console.ReadLine()!);
 double Length(int xa, int ya, int za, int xb, int yb, int zb)
 {
     double result = 0;
-    result =  Math.Sqrt(Math.Pow((xa - xb), 2) + Math.Pow((ya - yb), 2) + Math.Pow((za - zb), 2));
+    result =  Math.Sqrt(Math.Pow((xb - xa), 2) + Math.Pow((yb - ya), 2) + Math.Pow((zb - za), 2));
     return result;
 }
 
-Console.WriteLine($"Расстояние равно " + Length(xa, ya, xb, yb, za, zb));
+Console.WriteLine($"Расстояние равно " + Length(xa, ya, za, xb, yb, zb));
