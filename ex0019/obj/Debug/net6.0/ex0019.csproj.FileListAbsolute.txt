@@ -1,0 +1,15 @@
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.csproj.AssemblyReference.cache
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.AssemblyInfoInputs.cache
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.AssemblyInfo.cs
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\bin\Debug\net6.0\ex0019.exe
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\bin\Debug\net6.0\ex0019.deps.json
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\bin\Debug\net6.0\ex0019.runtimeconfig.json
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\bin\Debug\net6.0\ex0019.dll
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\bin\Debug\net6.0\ex0019.pdb
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.dll
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\refint\ex0019.dll
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.pdb
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ex0019.genruntimeconfig.cache
+C:\Users\English\Desktop\CSharp_DZ3\CSharpS3_DZ3\ex0019\obj\Debug\net6.0\ref\ex0019.dll
